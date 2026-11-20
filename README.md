@@ -26,5 +26,5 @@ I also hosted [The Computational Medicine Podcast](https://open.spotify.com/show
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adavidson1995&label=VIEWS%20SINCE%20NOV%202026&color=007ec6&style=for-the-badge" alt="adavidson1995" />
+  <img src="https://komarev.com/ghpvc/?username=alexrdavidson&label=VIEWS%20SINCE%20NOV%202026&color=007ec6&style=for-the-badge" alt="alexrdavidson" />
 </p>
